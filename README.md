@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Design de um site de Universidade fictício
+  Design de um site de uma universidade fictícia.
 </h4>
 
 ## 🛠 Tecnologias utilizadas
